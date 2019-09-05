@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+}
+.container{
+	width: 1920px;
+	margin: 0 auto;
+}
+.high{
+	background-color: yellow;
+	height: 360px;
+}
+.mid{
+	background-color: orange;
+	height: 360px;
+	width: 960px;
+	float: left;
+}
+.low{
+	background-color: cyan;
+	height: 360px;
+	width: 960px;
+	float: left;
+}
